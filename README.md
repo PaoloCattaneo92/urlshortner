@@ -1,7 +1,7 @@
 # urlshortner
 Test tecnico. Descrizione del contenuto:
 
-- @icon-star [**Documento di progetto**](URLShortnter_Paolo_Cattaneo.docx)
+- :star: [**Documento di progetto**](URLShortnter_Paolo_Cattaneo.docx)
 - [Dumb DB di test](urlshort-db-scaffold.ps1)
 - [Postman Collection di test](urlshortner.postman_collection.json)
 
