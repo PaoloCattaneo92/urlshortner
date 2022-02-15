@@ -1,11 +1,9 @@
 # urlshortner
 Test tecnico. Descrizione del contenuto:
 
-- [**Documento di progetto**](URLShortnter_Paolo_Cattaneo.docx)
-- [Richiesta](Tech_scenario_URL Shortner.pdf)
+- @icon-start [**Documento di progetto**](URLShortnter_Paolo_Cattaneo.docx)
 - [Dumb DB di test](urlshort-db-scaffold.ps1)
 - [Postman Collection di test](urlshortner.postman_collection.json)
-- [Architettura](Schemi.pptx)
 
 Repository:
 
