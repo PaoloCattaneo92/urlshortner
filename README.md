@@ -1,7 +1,7 @@
 # UrlShortner - Paolo Cattaneo
 ## Documenti, script
 
-- :star: [**Documento di progetto**](URLShortnter_Paolo_Cattaneo.docx)
+- :star: [**Documento di progetto**](URLShortnter_Paolo_Cattaneo.pdf)
 - [Dump DB di test](urlshortner_db.sql)
 - [Script di scaffold DB](urlshort-db-scaffold.ps1)
 - [Postman Collection di test](urlshortner.postman_collection.json)
